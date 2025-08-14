@@ -2,7 +2,7 @@
 
 A simple API that converts dates between unix timestamps and UTC strings.
 
-Live Demo: https://timestamp-microservice-production-f3ae.up.railway.app
+**Live Demo:** https://timestamp-microservice-production-f3ae.up.railway.app
 
 ## API Usage
 
